@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vuetest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vuetest.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
