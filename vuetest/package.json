@@ -1,0 +1,42 @@
+{
+  "name": "vuetest",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "element-china-area-data": "^5.0.2",
+    "element-ui": "^2.15.1",
+    "jQuery": "^1.7.4",
+    "jsdom": "^16.5.3",
+    "less-loader": "^8.1.1",
+    "location": "0.0.1",
+    "navigator": "^1.0.1",
+    "swiper": "^5.4.5",
+    "v-distpicker": "^1.2.9",
+    "video.js": "^7.15.4",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.6.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "axios": "^0.18.1",
+    "vue-cli-plugin-axios": "0.0.4",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
